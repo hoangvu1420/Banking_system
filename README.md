@@ -28,3 +28,7 @@
 - Khoá tài khoản NH
 - Mở khoá tài khoản NH
 - Thêm, xoá tài khoản QTV
+
+## Demo
+
+- Phần demo các tính năng của chương trình được thể hiện ở video này [Demo video](https://husteduvn-my.sharepoint.com/:v:/g/personal/vu_hn215171_sis_hust_edu_vn/EZ0BqyzvfuNFvkUeXXCmk_kBm41q6tQMxNSzsbtevmXTbA?e=ZyP5E2)
